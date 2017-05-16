@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="air_quality_bg">
+        <item>@drawable/bg_today_air_quality_blue</item>
+        <item>@drawable/bg_today_air_quality_green</item>
+        <item>@drawable/bg_today_air_quality_orange</item>
+        <item>@drawable/bg_today_air_quality_red</item>
+        <item>@drawable/bg_today_air_quality_black</item>
+    </array>
+
+</resources>

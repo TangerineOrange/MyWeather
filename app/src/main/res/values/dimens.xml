@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bg_today_air_quality_corners">7dp</dimen>
+    <dimen name="bg_city_fragment_search_bar_corners">3dp</dimen>
+    <dimen name="bg_card_view_white_corners">5dp</dimen>
+    <dimen name="toolBar_elevation">4dp</dimen>
+
+    <dimen name="city_Fragment_toolBar_marginBottom">2dp</dimen>
+    <dimen name="city_Fragment_toolBar_marginTop">32dp</dimen>
+
+</resources>

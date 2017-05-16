@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    >
+    <solid android:color="@android:color/holo_red_dark" />
+    <corners android:topLeftRadius="@dimen/bg_today_air_quality_corners"
+        android:topRightRadius="@dimen/bg_today_air_quality_corners"
+        android:bottomLeftRadius="@dimen/bg_today_air_quality_corners"
+        android:bottomRightRadius="@dimen/bg_today_air_quality_corners"
+        />
+
+</shape>
